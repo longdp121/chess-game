@@ -13,7 +13,7 @@ Welcome to the Chess Game project! This is a fully functional chess game impleme
 
 ## Demo
 
-You can try out the live demo [here](#).
+You can try out the live demo [here](https://chess-game-chi-lemon.vercel.app/).
 
 ## Installation
 
@@ -21,7 +21,7 @@ To run the chess game locally:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/chess-game.git
+   git clone git@github.com:longdp121/chess-game.git
    ```
 
 2. Navigate into the project directory:
